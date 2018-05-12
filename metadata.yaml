@@ -1,0 +1,28 @@
+_repo: The-Real-Gladstone--An-Anecdotal-Biography_36240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, J. Ewing (James Ewing)
+    alias: Ritchie, James Ewing
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '34770'
+    url: http://www.gutenberg.org/2009/agents/34770
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36240'
+  lccn: 01012538
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898'
+- !lcc 'DA'
+title: 'The Real Gladstone: An Anecdotal Biography'
+url: http://www.gutenberg.org/ebooks/36240
